@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - code prints _putchar
- *
- * Return: ALways 0 (Success)
+ * main - print _putchar
+ * is written by Lawi
+ * Return: 0
  */
 
 int main(void)
