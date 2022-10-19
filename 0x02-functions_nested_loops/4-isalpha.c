@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _isalpha - this program checks whether a xtr
  * is from the English alphabet
